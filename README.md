@@ -75,5 +75,5 @@ The Random Forest model generally performed better in terms of accuracy, precisi
 
 
 
-2ز
-2ز
+
+
